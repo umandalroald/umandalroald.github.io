@@ -1,8 +1,6 @@
-## Welcome to GitHub Pages
+## Welcome to Personal Page
 
-You can use the [editor on GitHub](https://github.com/umandalroald/roaldumandal.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Hi, My name is Roald Umandal (Drupal Developer/Technical Consultant) - I help other people succeed on their projects, I'm technical consultant/support for Drupal and WordPress site. I also help develop and extend Drupal module and maintain sites.
 
 ### Markdown
 
