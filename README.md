@@ -4,4 +4,4 @@ Hi, My name is Roald Umandal (Drupal Developer/Technical Consultant) - I help ot
 
 ### Need help?
 
-Contact me @ this [page](https://www.roaldumandal.com/contact)
+Contact me @ [page](https://www.roaldumandal.com/contact)
